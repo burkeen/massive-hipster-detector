@@ -1,4 +1,4 @@
 massive-hipster-detector
 ========================
 
-For when you're not sure.
+For when you're just not sure.
